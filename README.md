@@ -1,26 +1,26 @@
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benatherrera020@gmail.com) 
 
-# 💼 Experience:
+# 💼 Experiencia:
 
-### 🖥️ Docler Holding — Budapest, Hungary
-**IT Intern** · 2022–2023
+### 🖥️ Docler Holding — Budapest, Hungría
+**Prácticas de IT** · 2022–2023
 
-- IT internship after completing a **Higher Technician in Microcomputer Systems and Networks (SMR)**.
-- Gained experience in IT support, computer systems and technical troubleshooting.
-- Worked in an international environment in Budapest.
+- Prácticas realizadas después de completar el **Grado Medio de Sistemas Microinformáticos y Redes (SMR)**.
+- Experiencia en soporte informático, sistemas y resolución de incidencias técnicas.
+- Experiencia en un entorno internacional en Budapest.
 
-### 💻 UNDERSAT IT — Barakaldo, Spain
-**Software Development Intern** · 2025–2026
+### 💻 UNDERSAT IT — Barakaldo, España
+**Prácticas de Desarrollo de Software** · 2025–2026
 
-- Software development internship after completing a **Higher Technician in Multiplatform Application Development (DAM)**.
-- Worked in a software environment focused on **logistics, route optimization and real-time fleet management**.
-- Gained hands-on experience in software development and professional development workflows.
+- Prácticas realizadas después de completar el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- Experiencia en un entorno de desarrollo de software orientado a la **logística, optimización de rutas y gestión de flotas en tiempo real**.
+- Adquisición de experiencia práctica en desarrollo de software y metodologías de trabajo profesionales.
 
-# 💻 Tech Stack:
+# 💻 Tecnologías:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.shion.dev/api?username=BenatHerrera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=BenatHerrera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BenatHerrera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -28,4 +28,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=BenatHerrera&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Creado originalmente con GPRM ( https://gprm.itsvg.in ) -->
